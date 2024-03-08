@@ -14,11 +14,11 @@ int main()
 	*/
 
 	int sonuc;
-	sonuc = floor(2.7);   //floor kendinden küçük en yakın tamsayıya yuvarlar
+	sonuc = floor(2.7);   //floor kendinden kÃ¼Ã§Ã¼k en yakÃ½n tamsayiya yuvarlar
 	cout << "sonuc: " << sonuc << endl;
 
 	sonuc = ceil(2.7);
-	cout << "sonuc: " << sonuc << endl; //ceil kendinden kendinden büyük en küçük tamsayıya yuvarlar
+	cout << "sonuc: " << sonuc << endl; //ceil kendinden kendinden bÃ¼yÃ¼k en kÃ¼Ã§Ã¼k tamsayiya yuvarlar
 
 	sonuc = round(7.4);
 	cout << "sonuc: " << sonuc << endl; //round yuvarlar 
